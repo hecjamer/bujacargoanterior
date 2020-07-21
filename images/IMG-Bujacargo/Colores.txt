@@ -1,0 +1,17 @@
+ROJO
+
+#e00404
+
+RGB
+224,4,4
+
+Negro
+#080000
+
+CINTA HEADER
+Morado
+#6610f2
+
+CONTACTO
+Azul de la cinta
+#006aa4
